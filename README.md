@@ -2,7 +2,7 @@
 A pdf merger web app made for learning purpose.
 1.Node.js Backend:
 The heart of the app, built using Node.js.
-Handles PDF uploads, merging logic, and server operations.
+Handles PDF uploads, merging logic, and server operations. <br>
 2.Express.js Framework:
 Empowers routing, middleware handling, and serving static files.
 Simplifies backend development.
